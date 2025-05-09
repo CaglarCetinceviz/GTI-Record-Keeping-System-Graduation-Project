@@ -5,7 +5,7 @@ It is developed with Java Netbeans. I applied OOP with super and subclasses besi
 
 The database for this project is added in another repo called [GTI-Record-Keeping-System-DB](https://github.com/CaglarCetinceviz/GTI-Record-Keeping-System-DB)
 
-When you run the Java system, you will need the database. You can download it from this [link](https://github.com/CaglarCetinceviz/GTI-Record-Keeping-System-DB).
+When you run the Java system, you will need the database.
 
 To log in to the system, you must choose the admin or teacher option. In order to do that.
 
